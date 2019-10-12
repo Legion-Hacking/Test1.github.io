@@ -1,0 +1,12 @@
+# Site settings
+title: Gott und die Welt
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username: Jack the Ripper
+
+# Build settings
+markdown: kramdown
+permalink: pretty
